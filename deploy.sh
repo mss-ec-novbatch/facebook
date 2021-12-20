@@ -1,1 +1,2 @@
-This filke contains the deploy script..
+Hello Guys..
+This file contains the deploy script..
